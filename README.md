@@ -1,2 +1,4 @@
 # SQL
-task and solution from hackerrank
+solution of tasks from the website hackerrank
+
+https://www.hackerrank.com/domains/sql/select
